@@ -21,6 +21,7 @@ For website -> https://aim.mogiio.com
 For a single image -> https://mogiio.com/image-enhance.html
 
 ##2. Enhanced + Compressed Images
+enhance_images/
 
 This folder contain same images which are being enhanced and compressed by Mogi AI.
 
@@ -29,6 +30,7 @@ In these image you can see better quiality of images, which lesser size then the
 For Eg. //show table with comparision with original image
 
 ##3. Only compressed image
+compressed_images/
 
 Target of this compression is, to compress images. without lossing the visual quility of image. Here we have only appled mogi compression. Without using enhancement.
 
