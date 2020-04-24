@@ -1,6 +1,6 @@
 # Mogi Coding Challenge
 
-**For Images **
+**For Images**
 
 > # Solve the Challenge and win 10K Rs and Job with exciting Package.
 
@@ -31,6 +31,7 @@ In these image you can see better quiality of images, which lesser size then the
 For Eg. 
 
 | Images | Original Image Size | Enhance Image Size |
+| --- | --- | --- |
 | image1 | 100 kb | 65 kb |
 | image2 | 100 kb | 65 kb |
 | image3 | 100 kb | 65 kb |
@@ -53,6 +54,7 @@ Target of this compression is, to compress images. without lossing the visual qu
 For Eg.
 
 | Images | Original Image Size | Compressed Image Size |
+| --- | --- | --- |
 | image1 | 100 kb | 65 kb |
 | image2 | 100 kb | 65 kb |
 | image3 | 100 kb | 65 kb |
