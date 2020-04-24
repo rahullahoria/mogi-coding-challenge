@@ -1,8 +1,8 @@
 # Mogi Coding Challenge
 
-** For Images **
+**For Images **
 
-> # ** Solve the Challenge and win 10K Rs and Job with exciting Package. **
+> # Solve the Challenge and win 10K Rs and Job with exciting Package.
 
 * note: For job offer there, with be a interview process *
 
@@ -30,7 +30,7 @@ In these image you can see better quiality of images, which lesser size then the
 
 For Eg. 
 
-| | Original Image Size | Enhance Image Size |
+| Images | Original Image Size | Enhance Image Size |
 | image1 | 100 kb | 65 kb |
 | image2 | 100 kb | 65 kb |
 | image3 | 100 kb | 65 kb |
@@ -52,7 +52,7 @@ Target of this compression is, to compress images. without lossing the visual qu
 
 For Eg.
 
-| | Original Image Size | Compressed Image Size |
+| Images | Original Image Size | Compressed Image Size |
 | image1 | 100 kb | 65 kb |
 | image2 | 100 kb | 65 kb |
 | image3 | 100 kb | 65 kb |
@@ -66,7 +66,7 @@ For Eg.
 | image11 | 100 kb | 65 kb |
 | image12 | 100 kb | 65 kb |
 
-> # ** To win the Challenge you need to submit you image with 20% better result of compression, without lossing the visual quility of the image **
+> # To win the Challenge you need to submit you image with 20% better result of compression, without lossing the visual quility of the image
 
-** ALL THE BEST **
+**ALL THE BEST**
 
