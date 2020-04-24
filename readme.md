@@ -35,7 +35,7 @@ Target of this compression is, to compress images. without lossing the visual qu
 
 For Eg. //show table with comparision with original image
 
-To win the Challenge you need to submit you
+To win the Challenge you need to submit you image with 20% better result of compression, without lossing the visual quility of the image
 
 ALL THE BEST
 
