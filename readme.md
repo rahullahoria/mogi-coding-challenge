@@ -32,18 +32,18 @@ For Eg.
 
 | Images | Original Image Size | Enhance Image Size |
 | --- | --- | --- |
-| image1 | 100 kb | 65 kb |
-| image2 | 100 kb | 65 kb |
-| image3 | 100 kb | 65 kb |
-| image4 | 100 kb | 65 kb |
-| image5 | 100 kb | 65 kb |
-| image6 | 100 kb | 65 kb |
-| image7 | 100 kb | 65 kb |
-| image8 | 100 kb | 65 kb |
-| image9 | 100 kb | 65 kb |
-| image10 | 100 kb | 65 kb |
-| image11 | 100 kb | 65 kb |
-| image12 | 100 kb | 65 kb |
+| image1 | 74.2 kb | 65 kb |
+| image2 | 66.9 kb | 65 kb |
+| image3 | 51.6 kb | 65 kb |
+| image4 | 387.9 kb | 65 kb |
+| image5 | 127.6 kb | 65 kb |
+| image6 | 906 kb | 65 kb |
+| image7 | 270 kb | 65 kb |
+| image8 | 82.7 kb | 65 kb |
+| image9 | 175.4 kb | 65 kb |
+| image10 | 951.9 kb | 65 kb |
+| image11 | 127.4 kb | 65 kb |
+| image12 | 127.9 kb | 65 kb |
 
 ## 3. Only compressed image
 compressed_images/
@@ -55,18 +55,18 @@ For Eg.
 
 | Images | Original Image Size | Compressed Image Size |
 | --- | --- | --- |
-| image1 | 100 kb | 65 kb |
-| image2 | 100 kb | 65 kb |
-| image3 | 100 kb | 65 kb |
-| image4 | 100 kb | 65 kb |
-| image5 | 100 kb | 65 kb |
-| image6 | 100 kb | 65 kb |
-| image7 | 100 kb | 65 kb |
-| image8 | 100 kb | 65 kb |
-| image9 | 100 kb | 65 kb |
-| image10 | 100 kb | 65 kb |
-| image11 | 100 kb | 65 kb |
-| image12 | 100 kb | 65 kb |
+| image1 | 74.2 kb | 65 kb |
+| image2 | 66.9 kb | 65 kb |
+| image3 | 51.6 kb | 65 kb |
+| image4 | 387.9 kb | 65 kb |
+| image5 | 127.6 kb | 65 kb |
+| image6 | 906 kb | 65 kb |
+| image7 | 270 kb | 65 kb |
+| image8 | 82.7 kb | 65 kb |
+| image9 | 175.4 kb | 65 kb |
+| image10 | 951.9 kb | 65 kb |
+| image11 | 127.4 kb | 65 kb |
+| image12 | 127.9 kb | 65 kb |
 
 > # To win the Challenge you need to submit you image with 20% better result of compression, without lossing the visual quility of the image
 
